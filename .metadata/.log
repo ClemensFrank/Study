@@ -1,0 +1,18 @@
+!SESSION 2017-03-29 22:07:50.666 -----------------------------------------------
+eclipse.buildId=1.0.2.201702281506
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\Cleme\Desktop\repositories\Study
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-03-29 22:07:52.449
+!MESSAGE Could not bind a reference of component com.yakindu.sct.domain.c. The reference is: Reference[name = ILicenseService, interface = com.yakindu.sct.license.ILicenseService, policy = dynamic, cardinality = 0..n, target = null, bind = bindService, unbind = unbindService]
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-03-29 22:07:55.917
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.arduino.core.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-03-29 22:07:55.925
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-03-29 22:07:55.932
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
