@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::cpp {
+
+	statechart ControllerStateChart {
+
+		feature Outlet {
+			targetProject = "SonicControll"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+	}
+}

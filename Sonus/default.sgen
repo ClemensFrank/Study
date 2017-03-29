@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::cpp {
+
+	statechart sonus {
+
+		feature Outlet {
+			targetProject = "Sonus"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+	}
+}
